@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+header
+  {
+    width: 100%;
+      display: flex;
+      justify-content: center;
+      background-color: #bdc3c7;
+      font-size: 80%;
+      font-weight: 600;
+      align-items: center;
+      overflow: hidden;
+      position: fixed;
+      top: 0;
+      z-index: 5;
+  }
+  header .logo
+  {
+      width: 10%;
+  }
+  header .logo img
+  {
+      height: 83px;
+  }
+  nav ul
+  {
+      display: flex;
+      padding-top: 50px;
+  }
+  nav ul li
+  {
+      list-style: none;
+      padding: 0 30px;
+      margin-right: 20px;
+  }
+  nav ul li a
+  {
+      text-decoration: none;
+      color: black;
+      font-size: 15px;
+  }
+  .Dinhdang{
+    justify-content: center;
+  }
+  .Chugiua{
+    padding-top: 40px;
+    margin-top: 50px;
+    margin-right: 400px;
+  }
+  .GTCH{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+   margin-left: 450px;
+}
+.anh{
+    width: 50%;
+   padding-left: 250px ;
+   padding-bottom: 50px;
+}
+.anhcuahang{
+    padding-top: 50px;
+    width: 100%;
+   
+}
+.dong2,.dong4,.dong5,.dong6,.dong7,.dong8,.dong10,.dong11,.dong12,.dong13{
+    padding: 10px;
+    padding-left: 30px;
+
+}
+.dong1,.dong3,.dong9{
+    padding: 10px;
+    padding-left: 5px;
+}
+.dong14{
+    padding-top:20px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.dong15{
+    padding: 10px;
+    padding-left: 360px ;
+}
+.phangiua{
+    height: 500px;
+    padding-bottom: 800px;
+    width: 100%;
+}
+.khungcuoi{
+    padding-top: 50px;
+    width: 85%;
+    height: 770px;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding-bottom: 350px;
+    padding-left: 100px;
+}
+nav .Dinhdang a{
+    color: black;
+}
+nav .Dinhdang a:hover{
+    
+    color: rgb(246, 120, 141);
+}
+nav .Dinhdang .TC{
+    border: 2px solid rgb(246, 120, 141);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.TK ul{
+    width: 260px;
+    height: 40px;
+    position: fixed;
+    flex-wrap: wrap;
+    right: 350px;
+    top: 20px;
+    transform: translateY(20px);
+    visibility: hidden;
+}
+.TK ul li{
+    margin-top: 10px;
+    position: relative;
+    top: -50px;
+}
+.TK ul li a{
+    font-size: 17px;
+    text-decoration: none;
+}
+.TK:hover .TDTT{
+    transform: translateY(0);
+    visibility: visible;
+    transition: 0.5s;
+    background-color: #bdc3c7;
+    margin-top: 52px;
+    justify-content: center;
+}
+#phan3
+{
+    height: 200px;
+    width: 99.9%;
+    display: flex;
+    background-color: pink;
+}
+.doan1{
+    width: 226px;
+    margin-top: 35px;
+    padding-left: 27% ;
+}
+.doan1 h4{
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+.doan1 .thongtin p{
+    margin: 12px 0px;
+}
+.doan1 .thongtin a{
+    text-decoration: none;
+    font-size: 16.5px;
+    font-family: sans-serif;
+    color: #363434;
+
+}
+.doan2{
+    width: 226px;
+    margin-top: 35px;
+}
+.doan2 h4{
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+.doan2 .thongtin p{
+    margin: 12px 0px;
+
+}
+.doan2 .thongtin a{
+    text-decoration: none;
+    font-size: 16.5px;
+    font-family: sans-serif;
+    color: #363434;
+}
+.doan3{
+    width: 226px;
+    margin-top: 35px;
+}
+.doan3 h4{
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+.doan3 .thongtin1 .fiz{
+    margin: 5px 0px;
+
+}
+.doan3 .thongtin1 .fiz .fb{
+    margin-top: 5px;
+    margin-left: 5px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #363434;
+}
+.doan3 .thongtin1 .fiz .in{
+    margin-top: 5px;
+    margin-left: 5px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #363434;
+}
+.doan3 .thongtin1 .fiz .za{
+    margin-top: 5px;
+    margin-left: 5px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #363434;
+}
+.doan3 .thongtin1 .fiz{
+    display: flex;
+}
+.doan3 .thongtin1 .fiz img{      
+    width: 25px;
+}

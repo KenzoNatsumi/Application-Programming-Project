@@ -1,0 +1,155 @@
+D:\cslt2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.exe
+D:\cslt2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.deps.json
+D:\cslt2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.runtimeconfig.json
+D:\cslt2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.dll
+D:\cslt2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.pdb
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Fchuongtrinh.resources
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Form1.resources
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Properties.Resources.resources
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FHoaDon.resources
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FKhachHang.resources
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FNhaCungCap.resources
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FNhanVien.resources
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FSanPham.resources
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.GenerateResource.cache
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.GeneratedMSBuildEditorConfig.editorconfig
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.AssemblyInfoInputs.cache
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.AssemblyInfo.cs
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.CoreCompileInputs.cache
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.dll
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\refint\quản lí cửa hàng máy tính.dll
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.pdb
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.genruntimeconfig.cache
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\ref\quản lí cửa hàng máy tính.dll
+D:\cslt2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\cslt2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\cslt2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\cslt2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\cslt2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\cslt2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.AssemblyReference.cache
+D:\cslt2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.CopyComplete
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.exe
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.deps.json
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.runtimeconfig.json
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.dll
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.pdb
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Fchuongtrinh.resources
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Form1.resources
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Properties.Resources.resources
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FHoaDon.resources
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FKhachHang.resources
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FNhaCungCap.resources
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FNhanVien.resources
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FSanPham.resources
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.AssemblyInfo.cs
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.CopyComplete
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.dll
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\refint\quản lí cửa hàng máy tính.dll
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.pdb
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.genruntimeconfig.cache
+C:\Users\Admin\Documents\Đại học\kết quả học tập\đồ án cuối kì cslt 2\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\ref\quản lí cửa hàng máy tính.dll
+D:\cslt2\New folder\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.exe
+D:\cslt2\New folder\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.deps.json
+D:\cslt2\New folder\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.runtimeconfig.json
+D:\cslt2\New folder\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.dll
+D:\cslt2\New folder\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.pdb
+D:\cslt2\New folder\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\cslt2\New folder\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\cslt2\New folder\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\cslt2\New folder\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\cslt2\New folder\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\cslt2\New folder\quản lí cửa hàng máy tính\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.AssemblyReference.cache
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Fchuongtrinh.resources
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Form1.resources
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Properties.Resources.resources
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FHoaDon.resources
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FKhachHang.resources
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FNhaCungCap.resources
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FNhanVien.resources
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FSanPham.resources
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.GenerateResource.cache
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.GeneratedMSBuildEditorConfig.editorconfig
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.AssemblyInfoInputs.cache
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.AssemblyInfo.cs
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.CoreCompileInputs.cache
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.CopyComplete
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.dll
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\refint\quản lí cửa hàng máy tính.dll
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.pdb
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.genruntimeconfig.cache
+D:\cslt2\New folder\quản lí cửa hàng máy tính\obj\Debug\net6.0-windows\ref\quản lí cửa hàng máy tính.dll
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.exe
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.deps.json
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.runtimeconfig.json
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.dll
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.pdb
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.AssemblyReference.cache
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Fchuongtrinh.resources
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Form1.resources
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Properties.Resources.resources
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FHoaDon.resources
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FKhachHang.resources
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FNhaCungCap.resources
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FNhanVien.resources
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FSanPham.resources
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.GenerateResource.cache
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.AssemblyInfoInputs.cache
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.AssemblyInfo.cs
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.CoreCompileInputs.cache
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.CopyComplete
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.dll
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\refint\quản lí cửa hàng máy tính.dll
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.pdb
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.genruntimeconfig.cache
+C:\Users\adminn\OneDrive\Máy tính\LeNguyenDangKhoa_2374801030437_TripleT\2374801030437_LeNguyenDangKhoa_QuanLiCuaHangMayTinh\obj\Debug\net6.0-windows\ref\quản lí cửa hàng máy tính.dll
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.exe
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.deps.json
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.runtimeconfig.json
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.dll
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\bin\Debug\net6.0-windows\quản lí cửa hàng máy tính.pdb
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.AssemblyReference.cache
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Fchuongtrinh.resources
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Form1.resources
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.Properties.Resources.resources
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FHoaDon.resources
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FKhachHang.resources
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FNhaCungCap.resources
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FNhanVien.resources
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản_lí_cửa_hàng_máy_tính.views.FSanPham.resources
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.GenerateResource.cache
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.AssemblyInfoInputs.cache
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.AssemblyInfo.cs
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.CoreCompileInputs.cache
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.csproj.CopyComplete
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.dll
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\refint\quản lí cửa hàng máy tính.dll
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.pdb
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\quản lí cửa hàng máy tính.genruntimeconfig.cache
+C:\Users\adminn\OneDrive\Máy tính\Đồ án lập trình ứng dụng 1\Winform\AppQuanLy\obj\Debug\net6.0-windows\ref\quản lí cửa hàng máy tính.dll
